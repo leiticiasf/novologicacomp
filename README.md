@@ -1,1 +1,1 @@
-# novologicacomp
+# projeto-logicacomp
